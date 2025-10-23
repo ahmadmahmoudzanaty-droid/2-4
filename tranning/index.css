@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(rgb(223, 208, 172));
+}
+div{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-color: rgb(0, 0, 0);
+    float: none;
+    
+    
+}
+h1{
+    text-align: center;
+}
+.send{
+    border: 10px;
+}
+.yourname {
+    width: 220;
+    height: 70;
+}
+.your message {
+    width: 220;
+    height: 70;
+    
+}

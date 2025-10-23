@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+width: 70%;
+margin: auto;
+
+}
+.d1{
+    width: 25%;
+    text-align: center;
+    margin-top: 50px;
+    float: left;
+}
+.d2{
+    width: 25%;
+    text-align: center;
+    margin-top:50px;
+    float: left;
+
+}
+.d3{
+    margin-top: 50px;
+    text-align: center;
+    width:25%;
+    float: left;
+}
+.parent{
+    margin-left: 70px;
+    text-align: center;
+    padding: 80px;
+}
